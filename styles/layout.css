@@ -16,9 +16,7 @@
         border: 0.5px solid black;
     }
 
-    #parts {
-        float: left;
-    }
+
 
     #cd {
         display: flex;
@@ -48,8 +46,8 @@
 
 
     #i {
-        display: inline-block;
-        width: 760px;
+        display: flex;
+        width: auto;
         height: 150px;
         border: 0.5px solid black;
 
