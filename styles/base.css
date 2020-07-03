@@ -1,26 +1,7 @@
-@media (min-width:768px),
-(max-width:960) {
-    * {
-        box-sizing: border-box;
-        text-align: center;
-    }
-    #cont {
-        max-width: 960px;
-        margin: auto;
-        background-color: greenyellow;
-    }
-
+* {
+    box-sizing: border-box;
+    text-align: center;
 }
-
-@media (min-width:480px) and (max-width:767px) {
-    * {
-        box-sizing: border-box;
-        text-align: center;
-    }
-    #cont {
-        max-width: 960px;
-        margin: auto;
-        background-color: red;
-    }
-
-}
+main{
+margin-left: 12%;
+max-width: 960px;}
